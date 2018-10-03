@@ -26,7 +26,7 @@
     },
     "tags": {
       "type": "object",
-      "$ref": "raml-util/schemas/tags.schema"
+      "$ref": "/ramls/raml-util/schemas/tags.schema"
     }
   },
   "additionalProperties": false,
